@@ -11,8 +11,8 @@ int main()
 	// uso de operadores logicos
 	if (n3 > n2 && n2>n1)
 	{
-		
-			cout << "Estan en orden creciente.\n";
+		//es necesario agregar un printf
+			printf( "Estan en orden creciente.\n"); 
 		
 		
 	}
